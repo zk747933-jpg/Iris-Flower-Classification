@@ -95,11 +95,7 @@ The model predicts one of the following Iris flower species:
 
 ---
 
-## 📸 Demo
 
-<img width="800" alt="App Screenshot" src="https://via.placeholder.com/800x400.png?text=Add+Your+Project+Screenshot">
-
----
 
 ## 📈 Model
 
@@ -112,9 +108,11 @@ The model predicts one of the following Iris flower species:
 
 **Zishan Khan**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/your-username](https://github.com/zk747933-jpg/Iris-Flower-Classification
 
 LinkedIn: https://www.linkedin.com/in/your-profile
+
+Live App: https://iris-flower-classification-cg9qdfvopzfzufvvubjyks.streamlit.app/
 
 ---
 
